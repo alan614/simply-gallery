@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="pupper">Pupper</string>
+    <string name="car">Car</string>
+    <string name="jellyfish">JellyFish</string>
+    <string name="shrine">Shrine</string>
+</resources>
